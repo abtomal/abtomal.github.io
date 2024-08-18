@@ -446,6 +446,24 @@ html, body {
     justify-content: center; /* Allinea orizzontalmente al centro */
     margin-bottom: 30px;
   }
+
+  .contact-box {
+    border: 4px solid rgba(51, 255, 0, 0.87);
+    display: flex;
+    padding: 20px;
+    background-color: #000;
+    width: 300px;
+    margin: 20px auto; 
+  }
+
+  .skills-box {
+    border: 4px solid rgba(51, 255, 0, 0.87);
+    display: flex;
+    padding: 20px;
+    background-color: #000;
+    width: 150px;
+    margin: 20px auto; 
+  }
   
 }
 
